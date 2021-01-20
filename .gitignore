@@ -1,0 +1,7 @@
+__pycache__/
+dialogues.txt
+token
+/venv/
+.DS_Store
+.idea/
+
